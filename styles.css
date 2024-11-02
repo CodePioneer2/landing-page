@@ -122,10 +122,8 @@ blockquote{
     color: #f9faf8;
 }
 footer{
-    display: flex;
-    align-items: center;
-    justify-content: center;
     background-color: #1f2937;
-    padding: 30px 15%;
     color: #f9faf8;
+    text-align: center;
+    padding: 24px;
 }
